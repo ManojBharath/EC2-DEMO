@@ -6,4 +6,3 @@ resource "aws_instance" "demoec2" {
     Name = "Web-Server"
   }
 }
-
